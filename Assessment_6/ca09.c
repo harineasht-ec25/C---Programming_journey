@@ -1,5 +1,5 @@
-// Program to print odd numbers from 11 to 100 having ones digit 5 using while loop
-#include. <stdio.h>
+// Program to print odd numbers from 11 to 100 having ones digit 5 using while loop.
+#include<stdio.h>
 
 int main()
 {
