@@ -1,3 +1,4 @@
+//ckeck whether the number is greater than or equal to 50
 #include <stdio.h>
 int main()
 {
